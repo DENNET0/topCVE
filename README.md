@@ -1,2 +1,2 @@
 # topCVE
-project for education
+project for education and playing with my PC
